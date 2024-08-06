@@ -4,6 +4,7 @@
    for fahr = 0, 20, ..., 300 */ 
 
 int main(void) {
+  print("1.2 - Variables and Arithmetic Expressions")
   float fahr, celsius;
   float lower, upper, step;
 

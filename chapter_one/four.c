@@ -7,6 +7,7 @@
 // print Fahrenheit-Celsius table
 
 int main(void) {
+  print("1.4 - Symbolic Constants")
   int fahr;
 
   for (fahr = LOWER; fahr <= UPPER; fahr = fahr + STEP) {
