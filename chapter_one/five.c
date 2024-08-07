@@ -1,3 +1,4 @@
+/* Section 1.5 */
 #include <stdio.h>
 
 /* copy input to output; 1st version */
@@ -21,3 +22,4 @@ int main(void) {
   while ((c = getchar()) != EOF)
     putchar(c);
 }
+
