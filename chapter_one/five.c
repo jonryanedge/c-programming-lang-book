@@ -4,7 +4,7 @@
 /* copy input to output; 1st version */
 
 int main(void) {
-  print("1.5.1 - File Copying")
+  printf("1.5.1 - File Copying");
   int c;
 
   c = getchar();
